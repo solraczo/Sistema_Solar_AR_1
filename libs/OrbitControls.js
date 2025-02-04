@@ -9,7 +9,7 @@ import {
 	Plane,
 	Ray,
 	MathUtils
-} from 'https://miichipost.com/viewport/3DModelWebAR2/libs/three.module.js';
+} from 'https://github.com/solraczo/Sistema_Solar_AR_1/tree/main/libs/three.module.js';
 
 // OrbitControls performs orbiting, dollying (zooming), and panning.
 // Unlike TrackballControls, it maintains the "up" direction object.up (+Y by default).
