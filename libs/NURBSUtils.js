@@ -1,7 +1,7 @@
 import {
 	Vector3,
 	Vector4
-} from 'https://miichipost.com/viewport/3DModelWebAR2/libs/three.module.js';
+} from 'https://github.com/solraczo/Sistema_Solar_AR_1/tree/main/libs/three.module.js';
 
 /**
  * NURBS utils
