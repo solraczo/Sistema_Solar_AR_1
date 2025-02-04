@@ -1,7 +1,7 @@
-import * as THREE from 'https://miichipost.com/viewport/3DModelWebAR2/libs/three.module.js';
+import * as THREE from 'https://github.com/solraczo/Sistema_Solar_AR_1/tree/main/libs/three.module.js';
 import { ARButton } from 'https://cdn.jsdelivr.net/npm/three@0.153.0/examples/jsm/webxr/ARButton.js';
-import { GLTFLoader } from 'https://miichipost.com/viewport/3DModelWebAR2/libs/GLTFLoader.js';
-import { RGBELoader } from 'https://miichipost.com/viewport/3DModelWebAR2/libs/RGBELoader.js';
+import { GLTFLoader } from 'https://github.com/solraczo/Sistema_Solar_AR_1/tree/main/libs/GLTFLoader.js';
+import { RGBELoader } from 'https://github.com/solraczo/Sistema_Solar_AR_1/tree/main/libs/RGBELoader.js';
 
 let mixerGLTF;
 let actionsGLTF = {};
