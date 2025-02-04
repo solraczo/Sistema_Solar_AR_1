@@ -34,7 +34,7 @@ scene.add(ambientLight);
 // Cargar HDRI como entorno
 const rgbeLoader = new RGBELoader();
 rgbeLoader.load(
-    'https://miichipost.com/viewport/3DModelWebAR2/models/brown_photostudio_02_2k.hdr',
+    'https://github.com/solraczo/Sistema_Solar_AR_1/tree/main/models/brown_photostudio_02_2k.hdr',
     (texture) => {
         texture.mapping = THREE.EquirectangularReflectionMapping;
         scene.environment = texture;
@@ -48,7 +48,7 @@ rgbeLoader.load(
 // Cargar el modelo GLTF y activar todas sus animaciones en loop
 const gltfLoader = new GLTFLoader();
 gltfLoader.load(
-    'https://miichipost.com/viewport/3DModelWebAR2/models/sistema10.gltf',
+    'https://github.com/solraczo/Sistema_Solar_AR_1/tree/main/models/sistema10.gltf',
     (gltf) => {
         const model = gltf.scene;
         model.scale.set(0.5, 0.5, 0.5);
