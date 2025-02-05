@@ -64,7 +64,7 @@ import {
 	VectorKeyframeTrack,
 	SRGBColorSpace,
 	InstancedBufferAttribute
-} from 'https://github.com/solraczo/Sistema_Solar_AR_1/tree/main/libs/three.module.js';
+} from 'https://github.com/solraczo/Sistema_Solar_AR_1/libs/three.module.js';
 
 import { toTrianglesDrawMode } from '../libs/BufferGeometryUtils.js';
 
