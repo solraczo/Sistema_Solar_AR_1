@@ -9,7 +9,7 @@ import {
 	TriangleStripDrawMode,
 	TrianglesDrawMode,
 	Vector3,
-} from 'https://github.com/solraczo/Sistema_Solar_AR_1/tree/main/libs/three.module.js';
+} from 'https://github.com/solraczo/Sistema_Solar_AR_1/libs/three.module.js';
 
 function computeMikkTSpaceTangents( geometry, MikkTSpace, negateSign = true ) {
 
